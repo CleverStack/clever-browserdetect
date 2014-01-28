@@ -1,0 +1,25 @@
+{
+  "name": "clever-browserdetect",
+  "version": "0.0.1",
+  "authors": [
+    "Daniel Durante <me@danieldurante.com>"
+  ],
+  "description": "Detects browser and browser version for the CleverStack ecosystem",
+  "homepage": "https://github.com/CleverStack/clever-browserdetect",
+  "main": "main.js",
+  "keywords": [
+    "cleverstack",
+    "clevertech",
+    "cleverstack-module",
+    "cleverstack-frontend"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "rename": "cs_browserdetect"
+}
